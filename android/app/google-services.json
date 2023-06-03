@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956511201786",
+    "project_id": "firbaseconnection-cf683",
+    "storage_bucket": "firbaseconnection-cf683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956511201786:android:83152e1a3064cc8fa55c43",
+        "android_client_info": {
+          "package_name": "com.cowin.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956511201786-7im93j2j490r5ilv7aqqfaj6uroet1ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlYvjdIk7dU51_8_X7XUvjHJP1vCMqFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956511201786-7im93j2j490r5ilv7aqqfaj6uroet1ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
